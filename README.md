@@ -76,9 +76,3 @@ Projeto voltado para exibição de conteúdo em telas.
 Atuar na área de tecnologia, desenvolvendo soluções web e aprofundando conhecimentos em segurança da informação, contribuindo com projetos reais e crescimento profissional contínuo.
 
 ---
-
-## ⚡ Curiosidade
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="250"/>
-</p>
